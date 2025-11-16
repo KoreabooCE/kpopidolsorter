@@ -3316,6 +3316,14 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "Rocket Punch Dahyun",
+        img: "jIT3Jlh.jpeg",
+        opts: {
+            group: ["Rocket Punch"],
+            gen: ["gen4"]
+        }
+    },
+    {
         name: "tripleS Dahyun",
         img: "5SoD7B6.jpeg",
         opts: {
@@ -4077,7 +4085,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Rocket Punch Juri",
-        img: "0UCxUoQ.jpeg",
+        img: "dsJBag1.jpeg",
         opts: {
             group: ["Rocket Punch"],
             gen: ["gen4"]
@@ -4957,7 +4965,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Rocket Punch Sohee",
-        img: "ZLWJdWL.jpeg",
+        img: "7z6AV4H.jpeg",
         opts: {
             group: ["Rocket Punch"],
             gen: ["gen4"]
@@ -5101,7 +5109,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Rocket Punch Suyun",
-        img: "zjSoRLp.jpeg",
+        img: "UWnPyhW.jpeg",
         opts: {
             group: ["Rocket Punch"],
             gen: ["gen4"]
@@ -5277,7 +5285,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Rocket Punch Yeonhee",
-        img: "pvfUDf0.jpeg",
+        img: "BZl1ged.jpeg",
         opts: {
             group: ["Rocket Punch"],
             gen: ["gen4"]
@@ -5469,7 +5477,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Rocket Punch Yunkyoung",
-        img: "PwcvE8N.jpeg",
+        img: "UGOtUIP.jpeg",
         opts: {
             group: ["Rocket Punch"],
             gen: ["gen4"]
@@ -7618,6 +7626,7 @@ dataSet[dataSetVersion].characterData = [
         }
     },
 ];
+
 
 
 

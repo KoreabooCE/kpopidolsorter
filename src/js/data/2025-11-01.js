@@ -6213,7 +6213,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "ODD YOUTH Myah",
-        img: "bfTWQRi.jpeg",
+        img: "mIWyp0k.jpeg",
         opts: {
             group: ["ODD YOUTH"],
             gen: ["gen5"]
@@ -7626,6 +7626,7 @@ dataSet[dataSetVersion].characterData = [
         }
     },
 ];
+
 
 
 

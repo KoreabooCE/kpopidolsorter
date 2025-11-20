@@ -3333,7 +3333,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Pixy Dajeong",
-        img: "gUr4Nur.png",
+        img: "8wYPqBh.png",
         opts: {
             group: ["Pixy"],
             gen: ["gen4"]
@@ -3373,7 +3373,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Pixy Dia",
-        img: "tKtpUVO.jpeg",
+        img: "dT0kKdA.jpeg",
         opts: {
             group: ["Pixy"],
             gen: ["gen4"]
@@ -4613,7 +4613,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Pixy Rinji",
-        img: "8wtVDKq.png",
+        img: "2brj2Lf.png",
         opts: {
             group: ["Pixy"],
             gen: ["gen4"]
@@ -4693,7 +4693,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Pixy Satbyeol",
-        img: "FM29cSI.jpeg",
+        img: "DzQjsaD.jpeg",
         opts: {
             group: ["Pixy"],
             gen: ["gen4"]
@@ -5053,7 +5053,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Pixy Sua",
-        img: "YaCIUiX.png",
+        img: "aQeV1O0.png",
         opts: {
             group: ["Pixy"],
             gen: ["gen4"]
@@ -7626,6 +7626,7 @@ dataSet[dataSetVersion].characterData = [
         }
     },
 ];
+
 
 
 

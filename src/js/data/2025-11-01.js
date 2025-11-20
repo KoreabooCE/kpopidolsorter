@@ -4357,7 +4357,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "tripleS Mayu",
-        img: "xZ8GY2R.jpeg",
+        img: "BN3uKcf.jpeg",
         opts: {
             group: ["tripleS"],
             gen: ["gen4"]
@@ -7626,6 +7626,7 @@ dataSet[dataSetVersion].characterData = [
         }
     },
 ];
+
 
 
 

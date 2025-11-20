@@ -5581,7 +5581,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "BabyMonster Asa",
-        img: "R4j2ZZM.jpeg",
+        img: "NjzOhK4.jpeg",
         opts: {
             group: ["BabyMonster"], Clash: ["Idol Clash S2"],
             gen: ["gen5"]
@@ -6301,7 +6301,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "BabyMonster Rami",
-        img: "7BaN4u6.jpeg",
+        img: "92umwMe.jpeg",
         opts: {
             group: ["BabyMonster"], Clash: ["Idol Clash S2"],
             gen: ["gen5"]
@@ -7626,6 +7626,7 @@ dataSet[dataSetVersion].characterData = [
         }
     },
 ];
+
 
 
 

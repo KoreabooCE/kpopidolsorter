@@ -1909,7 +1909,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "CLC Eunbin",
-        img: "tQ7J2IK.jpeg",
+        img: "R8TX8Qi.jpeg",
         opts: {
             group: ["CLC"],
             gen: ["gen3"]
@@ -7626,6 +7626,7 @@ dataSet[dataSetVersion].characterData = [
         }
     },
 ];
+
 
 
 

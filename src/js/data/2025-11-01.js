@@ -3445,7 +3445,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Cherry Bullet Ella",
-        img: "8DcEdmC.jpeg",
+        img: "UQ8H2Vc.jpeg",
         opts: {
             group: ["Cherry Bullet"],
             gen: ["gen4"]
@@ -7626,6 +7626,7 @@ dataSet[dataSetVersion].characterData = [
         }
     },
 ];
+
 
 
 

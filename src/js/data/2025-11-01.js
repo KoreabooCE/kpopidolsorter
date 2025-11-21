@@ -6117,7 +6117,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Madein Mashiro",
-        img: "papk1Se.jpeg",
+        img: "o7wGdus.jpeg",
         opts: {
             group: ["Madein"],
             gen: ["gen5"]
@@ -6653,7 +6653,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Madein Yeseo",
-        img: "kTKOSIk.jpeg",
+        img: "OgzlwOX.jpeg",
         opts: {
             group: ["Madein"],
             gen: ["gen5"]
@@ -7626,6 +7626,7 @@ dataSet[dataSetVersion].characterData = [
         }
     },
 ];
+
 
 
 
